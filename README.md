@@ -1,6 +1,6 @@
 # CanDetect
 ผลงานการเข้าแข่งขัน AMI Hackathon 2 รอบ 2
-รางวัล : เหรียญทอง
+<h1>รางวัล : เหรียญทอง</h1>
 Ai คัดแยกกระป๋องและทำงานร่วมกับเครื่องเป่าลม
 Brain Trained & Flow For CiRA CORE
 Team : Mescolare il piede
