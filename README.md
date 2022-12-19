@@ -1,5 +1,5 @@
 # CanDetect
-ผลงานการเข้าแข่งขัน AMI Hackathon 2 รอบ 2 
+ผลงานการเข้าแข่งขัน AMI Hackathon 2 รอบ 2
 รางวัล : เหรียญทอง
 Ai คัดแยกกระป๋องและทำงานร่วมกับเครื่องเป่าลม
 Brain Trained & Flow For CiRA CORE
